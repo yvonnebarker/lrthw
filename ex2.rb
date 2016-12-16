@@ -1,3 +1,5 @@
+# Exercise 2: Comments amd Pound Characters
+
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by ruby.
 

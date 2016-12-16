@@ -1,3 +1,5 @@
+# Exercise 3: Numbers and Math
+
 # + plus is addition
 # - minus is subtraction
 # / slash is division
