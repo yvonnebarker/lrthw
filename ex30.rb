@@ -4,10 +4,10 @@ cars = 50
 trucks = 50
 
 
-# checks to see if the statement is true that thgere are nore cars than people and if it is runs the code, if not true moves to next line of code
+# checks to see if the condition is true (that there are nore cars than people) and if it is runs the code, if not true moves to next line of code
 if cars > people
   puts "We should take the cars."
-# checks to see if the next statement is true that there are less cars than people and if it is runs the code, if not true moves to next line of code  
+# checks to see if the next condition is true (that there are less cars than people) and if it is runs the code, if not true moves to next line of code
 elsif cars < people
   puts "We should not take the cars."
 # if neither of the above statements are true it runs the code
